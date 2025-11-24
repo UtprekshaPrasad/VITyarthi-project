@@ -56,6 +56,7 @@ Enter:
 ---
 
 ##Screenshots
+
 <img width="645" height="691" alt="Screenshot 2025-11-24 183943" src="https://github.com/user-attachments/assets/050dde03-2783-449e-8ec8-6f5805d50120" />
 <img width="487" height="665" alt="Screenshot 2025-11-24 184001" src="https://github.com/user-attachments/assets/9a4916de-6d14-4ad8-82ad-2c5c426b1885" />
 <img width="617" height="820" alt="Screenshot 2025-11-24 184042" src="https://github.com/user-attachments/assets/f7518261-ae7e-4ba5-8747-3730854bdd11" />
