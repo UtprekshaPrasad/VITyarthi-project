@@ -33,7 +33,7 @@ The system uses SQLite as a backend database and provides a simple command-line 
 - Download this repository.
 - Open a terminal/command prompt in the project folder.
 - Run the following command:
-   python main.py
+   python library_system.py
 
 ---
 
