@@ -29,10 +29,10 @@ The system uses SQLite as a backend database and provides a simple command-line 
 ---
 
 ## How to Run
--Ensure Python is installed on your system.
--Download this repository.
--Open a terminal/command prompt in the project folder.
--Run the following command:
+- Ensure Python is installed on your system.
+- Download this repository.
+- Open a terminal/command prompt in the project folder.
+- Run the following command:
    python main.py
 
 ---
@@ -42,13 +42,8 @@ Use the following scenarios to test the application:
 Enter:
 
 1 → Add User
-
 2 → Add Book
-
 3 → Issue Book
-
 4 → Return Book
-
 5 → Search Book
-
 6 → View Issued Books
