@@ -42,8 +42,13 @@ Use the following scenarios to test the application:
 Enter:
 
 1 → Add User
+
 2 → Add Book
+
 3 → Issue Book
+
 4 → Return Book
+
 5 → Search Book
+
 6 → View Issued Books
